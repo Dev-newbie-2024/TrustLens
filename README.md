@@ -763,41 +763,6 @@ Never publicly expose:
 
 ---
 
-# 📷 Screenshots
-
-### Home Page
-
-```markdown
-<img width="596" height="779" alt="image" src="https://github.com/user-attachments/assets/53bff4e0-a50c-488d-818c-e9e132340406" />
-
-```
-
-### Terms & Conditions Input
-
-```markdown
-<img width="665" height="310" alt="image" src="https://github.com/user-attachments/assets/17708ea2-b537-40de-9b09-dca3266e35ff" />
-
-```
-
-### Highlighted Results
-
-```markdown
-<img width="1229" height="225" alt="image" src="https://github.com/user-attachments/assets/5a6a8e8a-758a-423f-b769-7a9018c67b53" />
-
-```
-
-Recommended folder:
-
-```text
-screenshots/
-├── home.png
-├── input.png
-├── highlights.png
-└── summary.png
-```
-
----
-
 # 📊 Project Status
 
 **Status:** Full-Stack Prototype
