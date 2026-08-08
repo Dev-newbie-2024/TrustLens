@@ -802,20 +802,6 @@ Make your changes, commit them, and create a pull request.
 
 ---
 
-# 📄 License
-
-Add the project's chosen license here.
-
-For example:
-
-```text
-MIT License
-```
-
-If no license has been selected yet, this section can be removed or updated later.
-
----
-
 # ⚖️ Disclaimer
 
 TrustLens is an educational/project prototype designed to simplify the understanding of Terms & Conditions.
