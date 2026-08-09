@@ -6,7 +6,7 @@
 
 ---
 
-# 🔎 Overview
+#  Overview
 
 Terms & Conditions are often lengthy, complicated, and difficult for ordinary users to understand.
 
@@ -39,7 +39,7 @@ TrustLens aims to reduce this complexity by extracting relevant information and 
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
 ## 1. Terms & Conditions Extraction
 
@@ -108,7 +108,7 @@ This makes the prototype easier to run locally without requiring an AI API key.
 
 ---
 
-# 🔄 How TrustLens Works
+#  How TrustLens Works
 
 The overall workflow is:
 
@@ -154,7 +154,7 @@ Simplified Results
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 ## Frontend
 
@@ -188,7 +188,7 @@ Simplified Results
 
 ---
 
-# 🏗 Project Architecture
+#  Project Architecture
 
 TrustLens follows a client-server architecture.
 
@@ -231,7 +231,7 @@ TrustLens follows a client-server architecture.
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 A typical project structure is:
 
@@ -257,7 +257,7 @@ TrustLens/
 
 ---
 
-# ⚙️ Prerequisites
+#  Prerequisites
 
 Before running TrustLens locally, make sure the following are installed:
 
@@ -276,7 +276,7 @@ The Hugging Face API key is optional because the backend provides a fallback sum
 
 ---
 
-# 🚀 Installation & Setup
+#  Installation & Setup
 
 ## 1. Clone the Repository
 
@@ -294,7 +294,7 @@ cd TrustLens
 
 ---
 
-# 🔧 Backend Setup
+#  Backend Setup
 
 Open a terminal and navigate to the backend:
 
@@ -367,7 +367,7 @@ npm run dev
 
 ---
 
-# 💻 Frontend Setup
+#  Frontend Setup
 
 Open a **new terminal** while keeping the backend running.
 
@@ -399,7 +399,7 @@ Open the displayed URL in your browser.
 
 ---
 
-# ▶️ Running the Complete Application
+#  Running the Complete Application
 
 Both the backend and frontend need to be running.
 
@@ -423,7 +423,7 @@ Then open the frontend URL in your browser.
 
 ---
 
-# 🧑‍💻 Using TrustLens
+#  Using TrustLens
 
 Once the application is running:
 
@@ -455,7 +455,7 @@ Use the highlighted information and summary to quickly identify clauses that may
 
 ---
 
-# 🖼️ OCR Processing
+#  OCR Processing
 
 TrustLens uses **Tesseract.js** for Optical Character Recognition.
 
@@ -492,7 +492,7 @@ For better performance:
 
 ---
 
-# 🤖 AI Summarization
+#  AI Summarization
 
 When the Hugging Face API key is configured, TrustLens can use the Hugging Face API to generate a simplified summary of the extracted Terms & Conditions.
 
@@ -521,7 +521,7 @@ The objective is to transform complex Terms & Conditions into information that i
 
 ---
 
-# 🛡️ Fallback Behavior
+#  Fallback Behavior
 
 TrustLens does not completely depend on the Hugging Face API.
 
@@ -542,7 +542,7 @@ This allows developers to:
 
 ---
 
-# 🔌 Backend API
+#  Backend API
 
 The backend exposes API endpoints that connect the frontend with the processing and analysis logic.
 
@@ -584,7 +584,7 @@ Describe the returned JSON/data.
 
 ---
 
-# 🐛 Troubleshooting
+#  Troubleshooting
 
 ## Backend does not start
 
@@ -651,7 +651,7 @@ Check that:
 
 ---
 
-# ⚠️ Current Limitations
+#  Current Limitations
 
 As a prototype, TrustLens has some limitations:
 
@@ -664,7 +664,7 @@ As a prototype, TrustLens has some limitations:
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 Potential future improvements include:
 
@@ -735,7 +735,7 @@ Overall Risk
 
 ---
 
-# 🔐 Security Considerations
+#  Security Considerations
 
 Do not commit sensitive credentials to GitHub.
 
@@ -763,7 +763,7 @@ Never publicly expose:
 
 ---
 
-# 📊 Project Status
+#  Project Status
 
 **Status:** Full-Stack Prototype
 
@@ -781,7 +781,7 @@ Current capabilities:
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions and suggestions are welcome.
 
@@ -802,7 +802,7 @@ Make your changes, commit them, and create a pull request.
 
 ---
 
-# ⚖️ Disclaimer
+#  Disclaimer
 
 TrustLens is an educational/project prototype designed to simplify the understanding of Terms & Conditions.
 
@@ -812,7 +812,7 @@ Users should review the original Terms & Conditions and consult a qualified lega
 
 ---
 
-# 🌟 TrustLens
+#  TrustLens
 
 > **Read less. Understand more. Spot what matters.**
 
