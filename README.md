@@ -22,7 +22,7 @@ Instead of requiring users to read an entire document, TrustLens focuses their a
 
 ---
 
-# ❗ Problem Statement
+#  Problem Statement
 
 Users frequently accept Terms & Conditions without fully understanding what they are agreeing to.
 
